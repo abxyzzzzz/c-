@@ -1,0 +1,13 @@
+C:\Users\MR.PC\Desktop\nw\bin\Debug\netcoreapp3.1\nw.exe
+C:\Users\MR.PC\Desktop\nw\bin\Debug\netcoreapp3.1\nw.deps.json
+C:\Users\MR.PC\Desktop\nw\bin\Debug\netcoreapp3.1\nw.runtimeconfig.json
+C:\Users\MR.PC\Desktop\nw\bin\Debug\netcoreapp3.1\nw.runtimeconfig.dev.json
+C:\Users\MR.PC\Desktop\nw\bin\Debug\netcoreapp3.1\nw.dll
+C:\Users\MR.PC\Desktop\nw\bin\Debug\netcoreapp3.1\nw.pdb
+C:\Users\MR.PC\Desktop\nw\obj\Debug\netcoreapp3.1\nw.csprojAssemblyReference.cache
+C:\Users\MR.PC\Desktop\nw\obj\Debug\netcoreapp3.1\nw.AssemblyInfoInputs.cache
+C:\Users\MR.PC\Desktop\nw\obj\Debug\netcoreapp3.1\nw.AssemblyInfo.cs
+C:\Users\MR.PC\Desktop\nw\obj\Debug\netcoreapp3.1\nw.csproj.CoreCompileInputs.cache
+C:\Users\MR.PC\Desktop\nw\obj\Debug\netcoreapp3.1\nw.dll
+C:\Users\MR.PC\Desktop\nw\obj\Debug\netcoreapp3.1\nw.pdb
+C:\Users\MR.PC\Desktop\nw\obj\Debug\netcoreapp3.1\nw.genruntimeconfig.cache

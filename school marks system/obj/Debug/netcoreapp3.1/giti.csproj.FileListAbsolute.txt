@@ -1,0 +1,13 @@
+C:\Users\MR.PC\Desktop\giti\obj\Debug\netcoreapp3.1\giti.csprojAssemblyReference.cache
+C:\Users\MR.PC\Desktop\giti\obj\Debug\netcoreapp3.1\giti.AssemblyInfoInputs.cache
+C:\Users\MR.PC\Desktop\giti\obj\Debug\netcoreapp3.1\giti.AssemblyInfo.cs
+C:\Users\MR.PC\Desktop\giti\obj\Debug\netcoreapp3.1\giti.csproj.CoreCompileInputs.cache
+C:\Users\MR.PC\Desktop\giti\bin\Debug\netcoreapp3.1\giti.exe
+C:\Users\MR.PC\Desktop\giti\bin\Debug\netcoreapp3.1\giti.deps.json
+C:\Users\MR.PC\Desktop\giti\bin\Debug\netcoreapp3.1\giti.runtimeconfig.json
+C:\Users\MR.PC\Desktop\giti\bin\Debug\netcoreapp3.1\giti.runtimeconfig.dev.json
+C:\Users\MR.PC\Desktop\giti\bin\Debug\netcoreapp3.1\giti.dll
+C:\Users\MR.PC\Desktop\giti\bin\Debug\netcoreapp3.1\giti.pdb
+C:\Users\MR.PC\Desktop\giti\obj\Debug\netcoreapp3.1\giti.dll
+C:\Users\MR.PC\Desktop\giti\obj\Debug\netcoreapp3.1\giti.pdb
+C:\Users\MR.PC\Desktop\giti\obj\Debug\netcoreapp3.1\giti.genruntimeconfig.cache
