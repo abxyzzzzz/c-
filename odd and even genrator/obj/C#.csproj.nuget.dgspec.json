@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\funtions\\C#.csproj": {}
+    "D:\\C#\\odd and even genrator\\C#.csproj": {}
   },
   "projects": {
-    "D:\\C#\\funtions\\C#.csproj": {
+    "D:\\C#\\odd and even genrator\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\funtions\\C#.csproj",
+        "projectUniqueName": "D:\\C#\\odd and even genrator\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "D:\\C#\\funtions\\C#.csproj",
+        "projectPath": "D:\\C#\\odd and even genrator\\C#.csproj",
         "packagesPath": "C:\\Users\\MR.PC\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\funtions\\obj\\",
+        "outputPath": "D:\\C#\\odd and even genrator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MR.PC\\AppData\\Roaming\\NuGet\\NuGet.Config"

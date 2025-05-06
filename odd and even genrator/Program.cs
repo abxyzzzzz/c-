@@ -13,7 +13,7 @@ namespace C_
             string number = Console.ReadLine();
             int no = Convert.ToInt32(number);
 
-            if (no/2==0)
+            if (no%2==0)
             {
                 Console.WriteLine("even");
             }

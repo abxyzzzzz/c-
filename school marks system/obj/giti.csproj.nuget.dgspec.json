@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MR.PC\\Desktop\\giti\\giti.csproj": {}
+    "D:\\C#\\school marks system\\giti.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MR.PC\\Desktop\\giti\\giti.csproj": {
+    "D:\\C#\\school marks system\\giti.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MR.PC\\Desktop\\giti\\giti.csproj",
+        "projectUniqueName": "D:\\C#\\school marks system\\giti.csproj",
         "projectName": "giti",
-        "projectPath": "C:\\Users\\MR.PC\\Desktop\\giti\\giti.csproj",
+        "projectPath": "D:\\C#\\school marks system\\giti.csproj",
         "packagesPath": "C:\\Users\\MR.PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MR.PC\\Desktop\\giti\\obj\\",
+        "outputPath": "D:\\C#\\school marks system\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MR.PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
