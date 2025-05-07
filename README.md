@@ -32,6 +32,8 @@ Offers options to enable/disable WhatsApp and Facebook notifications.
 
 Uses a while(true) loop to re-prompt users for invalid inputs or ineligible experience.
 
+</details>
+
 More programs will be added as I learn and build!
 
 ---
