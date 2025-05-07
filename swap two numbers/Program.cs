@@ -25,6 +25,12 @@ namespace swap_two_numbers
             string no2 = Console.ReadLine();
             int b = Convert.ToInt32(no2);
 
+            a==b;
+            b==a;
+
+            Console.WriteLine("After swapping");
+            Console.WriteLine(a);
+            Console.WriteLine(b);
 
         }
     }
