@@ -1,6 +1,8 @@
 # C# Basics Projects
 
 Welcome to my C# beginner projects repository! 👋  
+This Console Application, based on [Dotnet FrameWork](https://dotnet.microsoft.com/en-us/), has undergone
+substantial modifications
 This repo contains my simple C# console applications created for practice and learning purposes.
 
 ---
