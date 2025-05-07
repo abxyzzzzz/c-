@@ -1,0 +1,13 @@
+D:\C#\swap two numbers\bin\Debug\netcoreapp3.1\swap two numbers.exe
+D:\C#\swap two numbers\bin\Debug\netcoreapp3.1\swap two numbers.deps.json
+D:\C#\swap two numbers\bin\Debug\netcoreapp3.1\swap two numbers.runtimeconfig.json
+D:\C#\swap two numbers\bin\Debug\netcoreapp3.1\swap two numbers.runtimeconfig.dev.json
+D:\C#\swap two numbers\bin\Debug\netcoreapp3.1\swap two numbers.dll
+D:\C#\swap two numbers\bin\Debug\netcoreapp3.1\swap two numbers.pdb
+D:\C#\swap two numbers\obj\Debug\netcoreapp3.1\swap two numbers.csprojAssemblyReference.cache
+D:\C#\swap two numbers\obj\Debug\netcoreapp3.1\swap two numbers.AssemblyInfoInputs.cache
+D:\C#\swap two numbers\obj\Debug\netcoreapp3.1\swap two numbers.AssemblyInfo.cs
+D:\C#\swap two numbers\obj\Debug\netcoreapp3.1\swap two numbers.csproj.CoreCompileInputs.cache
+D:\C#\swap two numbers\obj\Debug\netcoreapp3.1\swap two numbers.dll
+D:\C#\swap two numbers\obj\Debug\netcoreapp3.1\swap two numbers.pdb
+D:\C#\swap two numbers\obj\Debug\netcoreapp3.1\swap two numbers.genruntimeconfig.cache
