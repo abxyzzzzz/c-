@@ -19,7 +19,7 @@ This repo contains my simple C# console applications created for practice and le
   <details>
   <summary><h9>🟢Event Registration Console App</h9></summary>
        
-  A simple interactive C# console application that simulates a student registering for a college event. The program collects basic information, checks eligibility based on experience, and allows users to manage notification preferences.
+  A simple interactive C# console application that simulates a student registering for a [college event](https://github.com/abxyzzzzz/c-/tree/main/Event%20Registration%20Console%20App). The program collects basic information, checks eligibility based on experience, and allows users to manage notification preferences.
 
 🔵Features  
 Collects user's name and college.
