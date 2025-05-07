@@ -6,10 +6,10 @@ This repo contains my simple C# console applications created for practice and le
 ---
 ## 🧠 What's Inside?
 
-- 🟢 **Odd and Even Number Generator**
+- 🟢 **Odd and Even Number Generator**    
   A basic console application that asks the user for a number and tells whether it is odd or even.
   
-- 🟢**School Marks System**
+- 🟢**School Marks System**    
   A simple console-based C# application designed to manage and display student marks.
 
 
