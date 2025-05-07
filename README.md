@@ -17,7 +17,7 @@ This repo contains my simple C# console applications created for practice and le
   A simple console-based C# application designed to manage and student marks.
 
   <details>
-  <summary><h9>-🟢Event Registration Console App</h9></summary>
+  <summary><h9>🟢Event Registration Console App</h9></summary>
        
   A simple interactive C# console application that simulates a student registering for a college event. The program collects basic information, checks eligibility based on experience, and allows users to manage notification preferences.
 
