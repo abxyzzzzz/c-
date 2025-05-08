@@ -11,13 +11,13 @@ This repo contains my simple C# console applications created for practice and le
   <summary><h1>🧠 What's Inside?</h1></summary>
   
 <details>
-<summary><h3>>🟢 Odd and Even Number Generator </h3></summary>
+<summary><h3>🔢 Odd and Even Number Generator </h3></summary>
   A basic console application that asks the user for a number and tells whether it is odd or even.
  
 </details>
   
 <details>
-  <summary><h3>🟢School marks system</h3></summary>   
+  <summary><h3>🧮School marks system</h3></summary>   
   
   A simple console-based application in C# that calculates the percentage and division of a Class 10 CBSE [student based](https://github.com/abxyzzzzz/c-/blob/main/school%20marks%20system) on marks entered for five subjects.
 
@@ -25,7 +25,7 @@ This repo contains my simple C# console applications created for practice and le
 
 
 <details>
-  <summary><h3>🟢Event Registration Console App</h3></summary>
+  <summary><h3>🎟️Event Registration Console App</h3></summary>
        
   A simple interactive C# console application that simulates a student registering for a [college event](https://github.com/abxyzzzzz/c-/tree/main/Event%20Registration%20Console%20App). The program collects basic information, checks eligibility based on experience, and allows users to manage notification preferences.
 
