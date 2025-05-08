@@ -14,16 +14,16 @@ This repo contains my simple C# console applications created for practice and le
   A basic console application that asks the user for a number and tells whether it is odd or even.
   
 <details>
-  <summary><h4>🟢School marks system</h4></summary>   
+  <summary><h3>🟢School marks system</h3></summary>   
   A simple console-based application in C# that calculates the percentage and division of a Class 10 CBSE [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot) on marks entered for five subjects.
 
-  
-</details>
 
 <details>
-  <summary><h4>🟢Event Registration Console App</h4></summary>
+  <summary><h3>🟢Event Registration Console App</h3></summary>
        
   A simple interactive C# console application that simulates a student registering for a [college event](https://github.com/abxyzzzzz/c-/tree/main/Event%20Registration%20Console%20App). The program collects basic information, checks eligibility based on experience, and allows users to manage notification preferences.
+
+</details?
 
 
 
