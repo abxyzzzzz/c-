@@ -9,7 +9,8 @@ This repo contains my simple C# console applications created for practice and le
 
 <details>
   <summary><h1>🧠 What's Inside?</h1></summary>
-
+  
+<details>
 <summary><h3>>🟢 Odd and Even Number Generator </h3></summary>
   A basic console application that asks the user for a number and tells whether it is odd or even.
  
