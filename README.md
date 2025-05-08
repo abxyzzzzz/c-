@@ -58,7 +58,14 @@ MyEmail:
 ```
 brunogoyal2007@gmail.com
 ```
-my skills: https://docs.google.com/document/d/1R4oT1SaNipqySHzsJg9wNgBuXHwG3Mua6GJbU0uutD4/edit?usp=drive_link
+
+</details>
+
+---    
+
+<details>
+  <summary><h4>🎁Bonus</h4></summary>
+  my other skills: https://docs.google.com/document/d/1R4oT1SaNipqySHzsJg9wNgBuXHwG3Mua6GJbU0uutD4/edit?usp=drive_link
 </details>
 
 ---  
