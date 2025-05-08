@@ -14,8 +14,8 @@ This repo contains my simple C# console applications created for practice and le
   A basic console application that asks the user for a number and tells whether it is odd or even.
   
 <details>
-  <summary><h5>>🟢School marks system</h5></summary>   
-  A simple console-based C# application designed to manage and [student marks](https://github.com/abxyzzzzz/c-/tree/main/school%20marks%20system).
+  <summary><h9>🟢School marks system</h9></summary>   
+  A simple console-based C# application designed to manage and [student marks](https://github.com/abxyzzzzz/c-/tree/main/school%20marks%20system) .
 
   </details>
 
