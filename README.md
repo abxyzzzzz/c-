@@ -31,6 +31,13 @@ This repo contains my simple C# console applications created for practice and le
 
 </details>
 
+<details>
+  <summary><h3>🔄💡Swap two numbers</summary>
+  
+A simple C# console application that takes [two numbers](https://github.com/abxyzzzzz/c-/blob/main/swap%20two%20numbers) as input and swaps their values using a temporary variable.
+
+</details>
+
 
 
 
