@@ -16,7 +16,9 @@ This repo contains my simple C# console applications created for practice and le
 <details>
   <summary><h9>🟢School marks system</h9></summary>   
   A simple console-based application in C# that calculates the percentage and division of a Class 10 CBSE [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot) on marks entered for five subjects.
-  </details>
+
+  
+</details>
 
 <details>
   <summary><h9>🟢Event Registration Console App</h9></summary>
