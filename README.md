@@ -15,8 +15,7 @@ This repo contains my simple C# console applications created for practice and le
   
 <details>
   <summary><h9>🟢School marks system</h9></summary>   
-  A simple console-based C# application designed to manage and [student marks](https://github.com/abxyzzzzz/c-/tree/main/school%20marks%20system) .
-
+  A simple console-based application in C# that calculates the percentage and division of a Class 10 CBSE [student based](https://github.com/abxyzzzzz/c-/blob/main/school%20marks%20system) on marks entered for five subjects.
   </details>
 
 <details>
