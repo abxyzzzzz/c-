@@ -44,13 +44,20 @@ A simple C# console application that takes [two numbers](https://github.com/abxy
 <summary><h1>⚙️Features</h1></summary>
 
 
+  features will be adden soon
+</details>
 
 
+
+<details>
+  <summary><h1>📞My contact details</h1></summary>
 MyEmail:
 
 ```
 brunogoyal2007@gmail.com
 ```
+
+</details>
 
 More programs will be added as I learn and build!
 
