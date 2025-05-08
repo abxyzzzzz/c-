@@ -12,7 +12,8 @@ This repo contains my simple C# console applications created for practice and le
   
 <details>
 <summary><h3>🔢 Odd and Even Number Generator </h3></summary>
-  A basic console application that asks the user for a number and tells whether it is odd or even.
+  
+A basic console application that asks the user for a number and tells whether it is [odd or even](https://github.com/abxyzzzzz/c-/tree/main/odd%20and%20even%20genrator).
  
 </details>
   
