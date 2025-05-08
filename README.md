@@ -49,7 +49,7 @@ A simple C# console application that takes [two numbers](https://github.com/abxy
   features will be adden soon
 </details>
 
-
+---  
 
 <details>
   <summary><h1>📞My contact details</h1></summary>
