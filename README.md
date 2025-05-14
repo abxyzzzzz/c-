@@ -65,7 +65,7 @@ brunogoyal2007@gmail.com
 
 <details>
   <summary><h1>🎁Bonus</h1></summary>
-  <div aligin="center">
+  <div align="center">
   
 [MY OTHER SKILLS: ](https://docs.google.com/document/d/1R4oT1SaNipqySHzsJg9wNgBuXHwG3Mua6GJbU0uutD4/edit?usp=drive_link)
 </div>
