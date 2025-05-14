@@ -1,0 +1,13 @@
+D:\C#\diffrent swap\bin\Debug\netcoreapp3.1\diffrent swap.exe
+D:\C#\diffrent swap\bin\Debug\netcoreapp3.1\diffrent swap.deps.json
+D:\C#\diffrent swap\bin\Debug\netcoreapp3.1\diffrent swap.runtimeconfig.json
+D:\C#\diffrent swap\bin\Debug\netcoreapp3.1\diffrent swap.runtimeconfig.dev.json
+D:\C#\diffrent swap\bin\Debug\netcoreapp3.1\diffrent swap.dll
+D:\C#\diffrent swap\bin\Debug\netcoreapp3.1\diffrent swap.pdb
+D:\C#\diffrent swap\obj\Debug\netcoreapp3.1\diffrent swap.csprojAssemblyReference.cache
+D:\C#\diffrent swap\obj\Debug\netcoreapp3.1\diffrent swap.AssemblyInfoInputs.cache
+D:\C#\diffrent swap\obj\Debug\netcoreapp3.1\diffrent swap.AssemblyInfo.cs
+D:\C#\diffrent swap\obj\Debug\netcoreapp3.1\diffrent swap.csproj.CoreCompileInputs.cache
+D:\C#\diffrent swap\obj\Debug\netcoreapp3.1\diffrent swap.dll
+D:\C#\diffrent swap\obj\Debug\netcoreapp3.1\diffrent swap.pdb
+D:\C#\diffrent swap\obj\Debug\netcoreapp3.1\diffrent swap.genruntimeconfig.cache

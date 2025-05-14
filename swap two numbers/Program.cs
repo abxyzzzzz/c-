@@ -25,14 +25,25 @@ namespace swap_two_numbers
             string no2 = Console.ReadLine();
             int b = Convert.ToInt32(no2);
 
-            int c=a;
-            a=b;
-            b=c;
 
+            Console.WriteLine("please enter the value/number for C:");
+            string no3 = Console.ReadLine();
+            int c = Convert.ToInt32(no3);
+
+            a=a+b+c;
+            c=a-b-c;
+            b=a-b-c;
+            a=a-b-c;
+            
+            
+           
+        
+            
 
             Console.WriteLine("After swapping");
             Console.WriteLine(a);
             Console.WriteLine(b);
+            Console.WriteLine(c);
 
         }
     }
