@@ -68,6 +68,7 @@ brunogoyal2007@gmail.com
   <div aligin="center">
   
 [MY OTHER SKILLS: ](https://docs.google.com/document/d/1R4oT1SaNipqySHzsJg9wNgBuXHwG3Mua6GJbU0uutD4/edit?usp=drive_link)
+</div>
 </details>
 
 ---  
