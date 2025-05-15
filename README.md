@@ -64,9 +64,11 @@ brunogoyal2007@gmail.com
 ---    
 
 <details>
-  <summary><h1>🎁Bonus</h1></summary>
+  <summary><h1>✨Extra's</h1></summary>
+  <div align="center">
   
-my other skills: https://docs.google.com/document/d/1R4oT1SaNipqySHzsJg9wNgBuXHwG3Mua6GJbU0uutD4/edit?usp=drive_link
+[MY OTHER SKILLS: ](https://docs.google.com/document/d/1R4oT1SaNipqySHzsJg9wNgBuXHwG3Mua6GJbU0uutD4/edit?usp=drive_link)
+</div>
 </details>
 
 ---  
