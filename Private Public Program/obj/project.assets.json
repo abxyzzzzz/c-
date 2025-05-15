@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Fibibicini Series\\series.csproj",
-      "projectName": "series",
-      "projectPath": "D:\\C#\\Fibibicini Series\\series.csproj",
+      "projectUniqueName": "D:\\C#\\Private Public Program\\Private Public Program.csproj",
+      "projectName": "Private Public Program",
+      "projectPath": "D:\\C#\\Private Public Program\\Private Public Program.csproj",
       "packagesPath": "C:\\Users\\MR.PC\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Fibibicini Series\\obj\\",
+      "outputPath": "D:\\C#\\Private Public Program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MR.PC\\AppData\\Roaming\\NuGet\\NuGet.Config"

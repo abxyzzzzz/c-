@@ -1,0 +1,13 @@
+D:\C#\Private Public Program\obj\Debug\netcoreapp3.1\Private Public Program.csprojAssemblyReference.cache
+D:\C#\Private Public Program\obj\Debug\netcoreapp3.1\Private Public Program.AssemblyInfoInputs.cache
+D:\C#\Private Public Program\obj\Debug\netcoreapp3.1\Private Public Program.AssemblyInfo.cs
+D:\C#\Private Public Program\obj\Debug\netcoreapp3.1\Private Public Program.csproj.CoreCompileInputs.cache
+D:\C#\Private Public Program\bin\Debug\netcoreapp3.1\Private Public Program.exe
+D:\C#\Private Public Program\bin\Debug\netcoreapp3.1\Private Public Program.deps.json
+D:\C#\Private Public Program\bin\Debug\netcoreapp3.1\Private Public Program.runtimeconfig.json
+D:\C#\Private Public Program\bin\Debug\netcoreapp3.1\Private Public Program.runtimeconfig.dev.json
+D:\C#\Private Public Program\bin\Debug\netcoreapp3.1\Private Public Program.dll
+D:\C#\Private Public Program\bin\Debug\netcoreapp3.1\Private Public Program.pdb
+D:\C#\Private Public Program\obj\Debug\netcoreapp3.1\Private Public Program.dll
+D:\C#\Private Public Program\obj\Debug\netcoreapp3.1\Private Public Program.pdb
+D:\C#\Private Public Program\obj\Debug\netcoreapp3.1\Private Public Program.genruntimeconfig.cache
