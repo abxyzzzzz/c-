@@ -1,0 +1,13 @@
+D:\C#\Fahrenheit To Celsius\obj\Debug\netcoreapp3.1\Fahrenheit To Celsius.csprojAssemblyReference.cache
+D:\C#\Fahrenheit To Celsius\obj\Debug\netcoreapp3.1\Fahrenheit To Celsius.AssemblyInfoInputs.cache
+D:\C#\Fahrenheit To Celsius\obj\Debug\netcoreapp3.1\Fahrenheit To Celsius.AssemblyInfo.cs
+D:\C#\Fahrenheit To Celsius\obj\Debug\netcoreapp3.1\Fahrenheit To Celsius.csproj.CoreCompileInputs.cache
+D:\C#\Fahrenheit To Celsius\bin\Debug\netcoreapp3.1\Fahrenheit To Celsius.exe
+D:\C#\Fahrenheit To Celsius\bin\Debug\netcoreapp3.1\Fahrenheit To Celsius.deps.json
+D:\C#\Fahrenheit To Celsius\bin\Debug\netcoreapp3.1\Fahrenheit To Celsius.runtimeconfig.json
+D:\C#\Fahrenheit To Celsius\bin\Debug\netcoreapp3.1\Fahrenheit To Celsius.runtimeconfig.dev.json
+D:\C#\Fahrenheit To Celsius\bin\Debug\netcoreapp3.1\Fahrenheit To Celsius.dll
+D:\C#\Fahrenheit To Celsius\bin\Debug\netcoreapp3.1\Fahrenheit To Celsius.pdb
+D:\C#\Fahrenheit To Celsius\obj\Debug\netcoreapp3.1\Fahrenheit To Celsius.dll
+D:\C#\Fahrenheit To Celsius\obj\Debug\netcoreapp3.1\Fahrenheit To Celsius.pdb
+D:\C#\Fahrenheit To Celsius\obj\Debug\netcoreapp3.1\Fahrenheit To Celsius.genruntimeconfig.cache
