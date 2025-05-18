@@ -11,3 +11,16 @@ D:\C#\Private Public Program\bin\Debug\netcoreapp3.1\Private Public Program.pdb
 D:\C#\Private Public Program\obj\Debug\netcoreapp3.1\Private Public Program.dll
 D:\C#\Private Public Program\obj\Debug\netcoreapp3.1\Private Public Program.pdb
 D:\C#\Private Public Program\obj\Debug\netcoreapp3.1\Private Public Program.genruntimeconfig.cache
+D:\C#\Public Calculator\bin\Debug\netcoreapp3.1\Private Public Program.exe
+D:\C#\Public Calculator\bin\Debug\netcoreapp3.1\Private Public Program.deps.json
+D:\C#\Public Calculator\bin\Debug\netcoreapp3.1\Private Public Program.runtimeconfig.json
+D:\C#\Public Calculator\bin\Debug\netcoreapp3.1\Private Public Program.runtimeconfig.dev.json
+D:\C#\Public Calculator\bin\Debug\netcoreapp3.1\Private Public Program.dll
+D:\C#\Public Calculator\bin\Debug\netcoreapp3.1\Private Public Program.pdb
+D:\C#\Public Calculator\obj\Debug\netcoreapp3.1\Private Public Program.csprojAssemblyReference.cache
+D:\C#\Public Calculator\obj\Debug\netcoreapp3.1\Private Public Program.AssemblyInfoInputs.cache
+D:\C#\Public Calculator\obj\Debug\netcoreapp3.1\Private Public Program.AssemblyInfo.cs
+D:\C#\Public Calculator\obj\Debug\netcoreapp3.1\Private Public Program.csproj.CoreCompileInputs.cache
+D:\C#\Public Calculator\obj\Debug\netcoreapp3.1\Private Public Program.dll
+D:\C#\Public Calculator\obj\Debug\netcoreapp3.1\Private Public Program.pdb
+D:\C#\Public Calculator\obj\Debug\netcoreapp3.1\Private Public Program.genruntimeconfig.cache

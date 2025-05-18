@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Public Calculator\\Private Public Program.csproj": {}
+    "D:\\C#\\Simple Intrest\\Simple Intrest.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Public Calculator\\Private Public Program.csproj": {
+    "D:\\C#\\Simple Intrest\\Simple Intrest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Public Calculator\\Private Public Program.csproj",
-        "projectName": "Private Public Program",
-        "projectPath": "D:\\C#\\Public Calculator\\Private Public Program.csproj",
+        "projectUniqueName": "D:\\C#\\Simple Intrest\\Simple Intrest.csproj",
+        "projectName": "Simple Intrest",
+        "projectPath": "D:\\C#\\Simple Intrest\\Simple Intrest.csproj",
         "packagesPath": "C:\\Users\\MR.PC\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Public Calculator\\obj\\",
+        "outputPath": "D:\\C#\\Simple Intrest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MR.PC\\AppData\\Roaming\\NuGet\\NuGet.Config"

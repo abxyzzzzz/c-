@@ -1,0 +1,13 @@
+D:\C#\Simple Intrest\obj\Debug\netcoreapp3.1\Simple Intrest.csprojAssemblyReference.cache
+D:\C#\Simple Intrest\obj\Debug\netcoreapp3.1\Simple Intrest.AssemblyInfoInputs.cache
+D:\C#\Simple Intrest\obj\Debug\netcoreapp3.1\Simple Intrest.AssemblyInfo.cs
+D:\C#\Simple Intrest\obj\Debug\netcoreapp3.1\Simple Intrest.csproj.CoreCompileInputs.cache
+D:\C#\Simple Intrest\bin\Debug\netcoreapp3.1\Simple Intrest.exe
+D:\C#\Simple Intrest\bin\Debug\netcoreapp3.1\Simple Intrest.deps.json
+D:\C#\Simple Intrest\bin\Debug\netcoreapp3.1\Simple Intrest.runtimeconfig.json
+D:\C#\Simple Intrest\bin\Debug\netcoreapp3.1\Simple Intrest.runtimeconfig.dev.json
+D:\C#\Simple Intrest\bin\Debug\netcoreapp3.1\Simple Intrest.dll
+D:\C#\Simple Intrest\bin\Debug\netcoreapp3.1\Simple Intrest.pdb
+D:\C#\Simple Intrest\obj\Debug\netcoreapp3.1\Simple Intrest.dll
+D:\C#\Simple Intrest\obj\Debug\netcoreapp3.1\Simple Intrest.pdb
+D:\C#\Simple Intrest\obj\Debug\netcoreapp3.1\Simple Intrest.genruntimeconfig.cache
