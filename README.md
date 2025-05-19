@@ -169,6 +169,29 @@ Simple Interest (SI) = (P × R × T) / 100
 <details>
   <summary><h4>🚀Features of School Marks System</h4></summary>
 
+  - Interactive text-based interface for Class 10th students.
+  - Accepts marks for 5 subjects:
+     - Maths
+     - Science
+     - Social Studies
+     - Physical Education
+     - English
+  - Pass/Fail Evaluation
+  - Clears console each time the program begins (Console.Clear()).
+  - Repeats if any subject has marks > 100.
+  - 🏅 Result Classification:
+    - ❌ Below 36% → "FAILED"
+    - 🥉 36% to <60% → "First Division"
+    - 🥈 60% to <80% → "Second Division"
+    - 🥇 80% to <90% → "Third Division"
+    -  🏆 90% to 100% → "TOPPER"
+
+
+
+
+    
+    
+
 
 </details>
 
