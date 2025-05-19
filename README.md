@@ -38,6 +38,24 @@ A basic console application that asks the user for a number and tells whether it
 A simple C# console application that takes [two numbers](https://github.com/abxyzzzzz/c-/blob/main/swap%20two%20numbers) as input and swaps their values using a temporary variable.
 
 </details>
+
+<details>
+<summary><h4>💰Simple Intrest</h4></summary>
+
+This is a beginner-friendly C# console application that calculates Simple Interest based on user input for:
+- Principal Amount (P)
+- Annual Interest Rate (R)
+- Time Period in Years (T)
+  Formula used:
+
+```
+Simple Interest (SI) = (P × R × T) / 100
+```
+
+
+
+  
+</details>
 </details>
 
 ---   
