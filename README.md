@@ -79,8 +79,24 @@ Simple Interest (SI) = (P × R × T) / 100
 <details>
 <summary><h1>⚙️Features</h1></summary>
 
+<details>
+  <summary><h4>🚀Features of Fibonacci Series</h4></summary>
 
-  features will be adden soon
+  - Console-based user input
+  - Dynamic generation of Fibonacci series
+  - Basic input validation (n >= 1)
+</details>
+
+<details>
+  <summary><h4>🚀Features of Simple intrest</h4></summary>
+
+ - Console-based user interaction
+ - Input validation through basic prompts
+ - Instant interest calculation and display
+
+</details>
+
+
 </details>
 
 ---  
