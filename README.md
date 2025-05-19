@@ -46,6 +46,7 @@ This is a beginner-friendly C# console application that calculates Simple Intere
 - Principal Amount (P)💵
 - Annual Interest Rate (R)📅 
 - Time Period in Years (T)💯
+  
   📐Formula used:
 
 ```
