@@ -135,6 +135,11 @@ Simple Interest (SI) = (P × R × T) / 100
 
 <details>
   <summary><h4>🚀Features of Event Registration Console App </h4></summary>
+  
+-  Runs continuously until valid inputs are given using a while (true) loop and conditional exits.
+-  Collects user information like name, college, event, and experience.
+-   Validates event participation eligibility based on experience.
+-    Uses Console.Clear() for a clean UI every time the loop runs.
 
 
 </details>
@@ -142,11 +147,21 @@ Simple Interest (SI) = (P × R × T) / 100
 <details>
   <summary><h4>🚀Features of Swap two numbers </h4></summary>
 
+  - Engages users through a clean and user-friendly console interface
+  - Greets the user and waits for any key press to proceed.
+  - Swaps Three Numbers Without Using a Temporary Variable:
+  - Clearly prints the new values of A, B, and C.
+
 
 </details>
 
 <details>
   <summary><h4>🚀Features of Odd and Even Genrator</h4></summary>
+
+  - Simple and clean user interaction using the console.
+  - Takes a number input from the user.
+  - Uses modulus (%) operator to determine whether the number is even or odd.
+  - Clears the console at the start using Console.Clear() for a neat display.
 
 
 </details>
