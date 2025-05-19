@@ -66,9 +66,16 @@ Simple Interest (SI) = (P × R × T) / 100
 
 - Prompts the user to enter a number n 
 - Displays the first n terms of the Fibonacci sequence
-  
+</details>
 
-  
+<details>
+  <summary><h4>🌡️Fahrenheit & Celsius Converter</h4></summary>
+
+  A simple console-based temperature converter program that converts temperatures between [Celsius and Fahrenheit](https://github.com/abxyzzzzz/c-/blob/main/Fahrenheit%20To%20Celsius) based on user input.
+</details>
+
+<details>
+  <summary><h4>Public calculator</h4></summary>
 
   
 </details>
@@ -95,6 +102,49 @@ Simple Interest (SI) = (P × R × T) / 100
  - Instant interest calculation and display
 
 </details>
+
+<details>
+  <summary><h4>🚀Features of Fahrenheit & Celsius Converter </h4></summary>
+
+ - Clear and simple text-based user interface
+ - Validates user selection (cf or fc)
+ - Displays error message for invalid inputs
+ - Console clears screen before running for clean display
+
+</details>
+
+<details>
+  <summary><h4>🚀Features of Public Calcultor </h4></summary>
+
+
+</details>
+
+<details>
+  <summary><h4>🚀Features of Event Registration Console App </h4></summary>
+
+
+</details>
+
+<details>
+  <summary><h4>🚀Features of Swap two numbers </h4></summary>
+
+
+</details>
+
+<details>
+  <summary><h4>🚀Features of Odd and Even Genrator</h4></summary>
+
+
+</details>
+
+<details>
+  <summary><h4>🚀Features of School Marks System</h4></summary>
+
+
+</details>
+
+
+
 
 
 </details>
