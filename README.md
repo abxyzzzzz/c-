@@ -75,7 +75,7 @@ Simple Interest (SI) = (P × R × T) / 100
 </details>
 
 <details>
-  <summary><h4>Public calculator</h4></summary>
+  <summary><h4>🤓Arithmetic Operations with Encapsulationr</h4></summary>
 
   
 </details>
