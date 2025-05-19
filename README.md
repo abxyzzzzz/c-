@@ -42,7 +42,7 @@ A simple C# console application that takes [two numbers](https://github.com/abxy
 <details>
 <summary><h4>💰Simple Intrest</h4></summary>
 
-This is a beginner-friendly C# console application that calculates Simple Interest based on user input for:
+This is a beginner-friendly C# console application that calculates [Simple Interest](https://github.com/abxyzzzzz/c-/tree/main/Simple%20Intrest) based on user input for:
 - Principal Amount (P)💵
 - Annual Interest Rate (R)📅 
 - Time Period in Years (T)💯
@@ -54,6 +54,18 @@ Simple Interest (SI) = (P × R × T) / 100
 ```
 
 
+
+  
+</details>
+
+<details>
+  <summary><h4>🖩 Fibonacci Series Generator</h4></summary>
+
+  This is a simple C# console application that generates the [Fibonacci series](https://github.com/abxyzzzzz/c-/tree/main/Fibibicini%20Series) up to a user-defined number of terms.
+<h3>📌 What It Does?:</h3>
+  -Prompts the user to enter a number n
+
+  
 
   
 </details>
