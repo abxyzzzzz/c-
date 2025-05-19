@@ -75,9 +75,13 @@ Simple Interest (SI) = (P × R × T) / 100
 </details>
 
 <details>
-  <summary><h4>🤓Arithmetic Operations with Encapsulationr</h4></summary>
+  <summary><h4>🤓Arithmetic Operations with Encapsulations</h4></summary>
+  <h3>📌 Key Concepts Illustrated:</h3>
 
-  
+  - Encapsulation: Private variables with public getters and setters (number1 and number2 properties)
+  - Class Design: The Orange class encapsulates data and operations.
+  - Arithmetic Methods: Addition, subtraction, multiplication, division, and a custom operation demonstrating BODMAS rules.
+
 </details>
 </details>
 
@@ -114,8 +118,15 @@ Simple Interest (SI) = (P × R × T) / 100
 </details>
 
 <details>
-  <summary><h4>🚀Features of Public Calcultor </h4></summary>
-
+  <summary><h4>🚀Features of Arithmetic Operations with Encapsulation </h4></summary>
+  
+  - User inputs two integer values.
+  - The program performs
+    - Addition
+    - Subtraction
+    - Multiplication
+    - Division
+    - Custom BODMAS operation: number1 + (number1 * number2)
 
 </details>
 
