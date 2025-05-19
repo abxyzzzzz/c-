@@ -76,6 +76,9 @@ Simple Interest (SI) = (P × R × T) / 100
 
 <details>
   <summary><h4>🤓Arithmetic Operations with Encapsulations</h4></summary>
+
+  This C# console application demonstrates the use of private fields, public properties, and methods to perform basic [arithmetic operations](https://github.com/abxyzzzzz/c-/blob/main/Public%20Calculator) on two numbers.
+
   <h3>📌 Key Concepts Illustrated:</h3>
 
   - Encapsulation: Private variables with public getters and setters (number1 and number2 properties)
