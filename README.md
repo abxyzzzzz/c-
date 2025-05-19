@@ -63,7 +63,10 @@ Simple Interest (SI) = (P × R × T) / 100
 
   This is a simple C# console application that generates the [Fibonacci series](https://github.com/abxyzzzzz/c-/tree/main/Fibibicini%20Series) up to a user-defined number of terms.
 <h3>📌 What It Does?:</h3>
-  -Prompts the user to enter a number n
+
+- Prompts the user to enter a number n 
+- Displays the first n terms of the Fibonacci sequence
+  
 
   
 
