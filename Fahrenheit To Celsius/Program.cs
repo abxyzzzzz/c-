@@ -35,7 +35,7 @@ namespace Fahrenheit_To_Celsius
                     Console.WriteLine("Please enter your farnehit to convert to celcuis");
                     string readt = Console.ReadLine();
                     double f = Convert.ToDouble(readt);
-                    double fc = (f - 32) / (9 / 5);
+                    double fc = (f - 32) * 5f/9f;
                     Console.WriteLine($"your OUTPUT : {fc}");
                 }
 
