@@ -75,9 +75,16 @@ Simple Interest (SI) = (P × R × T) / 100
 </details>
 
 <details>
-  <summary><h4>🤓Arithmetic Operations with Encapsulationr</h4></summary>
+  <summary><h4>🤓Arithmetic Operations with Encapsulations</h4></summary>
 
-  
+  This C# console application demonstrates the use of private fields, public properties, and methods to perform basic [arithmetic operations](https://github.com/abxyzzzzz/c-/blob/main/Public%20Calculator) on two numbers.
+
+  <h3>📌 Key Concepts Illustrated:</h3>
+
+  - Encapsulation: Private variables with public getters and setters (number1 and number2 properties)
+  - Class Design: The Orange class encapsulates data and operations.
+  - Arithmetic Methods: Addition, subtraction, multiplication, division, and a custom operation demonstrating BODMAS rules.
+
 </details>
 </details>
 
@@ -114,13 +121,25 @@ Simple Interest (SI) = (P × R × T) / 100
 </details>
 
 <details>
-  <summary><h4>🚀Features of Public Calcultor </h4></summary>
-
+  <summary><h4>🚀Features of Arithmetic Operations with Encapsulation </h4></summary>
+  
+  - User inputs two integer values.
+  - The program performs
+    - Addition
+    - Subtraction
+    - Multiplication
+    - Division
+    - Custom BODMAS operation: number1 + (number1 * number2)
 
 </details>
 
 <details>
   <summary><h4>🚀Features of Event Registration Console App </h4></summary>
+  
+-  Runs continuously until valid inputs are given using a while (true) loop and conditional exits.
+-  Collects user information like name, college, event, and experience.
+-   Validates event participation eligibility based on experience.
+-    Uses Console.Clear() for a clean UI every time the loop runs.
 
 
 </details>
@@ -128,17 +147,50 @@ Simple Interest (SI) = (P × R × T) / 100
 <details>
   <summary><h4>🚀Features of Swap two numbers </h4></summary>
 
+  - Engages users through a clean and user-friendly console interface
+  - Greets the user and waits for any key press to proceed.
+  - Swaps Three Numbers Without Using a Temporary Variable:
+  - Clearly prints the new values of A, B, and C.
+
 
 </details>
 
 <details>
   <summary><h4>🚀Features of Odd and Even Genrator</h4></summary>
 
+  - Simple and clean user interaction using the console.
+  - Takes a number input from the user.
+  - Uses modulus (%) operator to determine whether the number is even or odd.
+  - Clears the console at the start using Console.Clear() for a neat display.
+
 
 </details>
 
 <details>
   <summary><h4>🚀Features of School Marks System</h4></summary>
+
+  - Interactive text-based interface for Class 10th students.
+  - Accepts marks for 5 subjects:
+     - Maths
+     - Science
+     - Social Studies
+     - Physical Education
+     - English
+  - Pass/Fail Evaluation
+  - Clears console each time the program begins (Console.Clear()).
+  - Repeats if any subject has marks > 100.
+  - 🏅 Result Classification:
+    - ❌ Below 36% → "FAILED"
+    - 🥉 36% to <60% → "First Division"
+    - 🥈 60% to <80% → "Second Division"
+    - 🥇 80% to <90% → "Third Division"
+    -  🏆 90% to 100% → "TOPPER"
+
+
+
+
+    
+    
 
 
 </details>
