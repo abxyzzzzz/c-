@@ -244,7 +244,7 @@ More programs will be added as I learn and build!
 
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+      <img alt="Tests Passing" src="https://github.com/abxyzzzzz/github-readme-stats/dotnet.yml/Test/badge.svg" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
