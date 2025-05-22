@@ -199,7 +199,7 @@ Simple Interest (SI) = (P × R × T) / 100
   <summary><h4>🚀Features of ASCII Code Converter</h4></summary>
 
   - Enter a character, and the app returns its ASCII decimal value.
-  - nter an ASCII decimal value, and the app returns the corresponding character.
+  - Enter an ASCII decimal value, and the app returns the corresponding character.
   - Interactive and clear console instructions make it easy to use
 
 
