@@ -1,0 +1,84 @@
+using System;
+using System.IO;
+
+namespace C_Sharp
+{
+
+
+    //OOPS 
+    //Constrcutor
+    //ASCII Codes
+    //Inheritance - Diagram also
+
+    //Parent Class - Animal
+    public class Animal
+    {
+
+        protected string name;
+        public Animal(string name)
+        {
+            this.name = name;
+        }
+
+        public void Eat()
+        {
+            Console.WriteLine($"{name} is eating.");
+        }
+
+    }
+
+    public class Dog : Animal
+    {
+
+        public Dog(string name) : base(name)
+        {
+            // Calls the parent constructor with the name parameter.
+
+        }
+
+        public void Bark()
+        {
+            Console.WriteLine($"{name} says Woof Woof, Bhaw bhaw.");
+        }
+
+    }
+
+     public class Elephant : Animal
+    {
+
+        public Elephant(string name) : base(name)
+        {
+            // Calls the parent constructor with the name parameter.
+
+        }
+
+        public void Trumpet()
+        {
+            Console.WriteLine($"{name} says Uhanuuoooooooooo.");
+        }
+
+    } 
+
+
+
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("======= Dog Example =======");
+            Dog myDog = new Dog("Bruno");
+            myDog.Eat();
+            myDog.Bark();
+
+
+            Console.WriteLine();
+
+            Console.WriteLine("========== Elephant Example =======");
+            Elephant myElephant = new Elephant("Jumbo");
+            myElephant.Eat();
+            myElephant.Trumpet();
+
+        }
+    }
+}
