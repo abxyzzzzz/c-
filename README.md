@@ -86,6 +86,13 @@ Simple Interest (SI) = (P × R × T) / 100
   - Arithmetic Methods: Addition, subtraction, multiplication, division, and a custom operation demonstrating BODMAS rules.
 
 </details>
+
+<details>
+  <summary><h4>🔤ASCII Code Converter</h4></summary>
+  
+  A simple C# console application that converts between [ASCII symbols and decimal codes](https://github.com/abxyzzzzz/c-/tree/main/ASCII%20Code), and vice versa.
+  
+</details>
 </details>
 
 ---   
@@ -186,14 +193,20 @@ Simple Interest (SI) = (P × R × T) / 100
     - 🥇 80% to <90% → "Third Division"
     -  🏆 90% to 100% → "TOPPER"
 
+</details>
 
+<details>
+  <summary><h4>🚀Features of ASCII Code Converter</h4></summary>
 
-
-    
-    
+  - Enter a character, and the app returns its ASCII decimal value.
+  - Enter an ASCII decimal value, and the app returns the corresponding character.
+  - Interactive and clear console instructions make it easy to use
 
 
 </details>
+
+
+
 
 
 
@@ -231,7 +244,7 @@ More programs will be added as I learn and build!
 
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+      <img alt="Tests Passing" src="https://github.com/abxyzzzzz/github-readme-stats/dotnet.yml/Test/badge.svg" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
