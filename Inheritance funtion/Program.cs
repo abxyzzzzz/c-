@@ -7,9 +7,9 @@ namespace Inheritance_funtion
     public class vehicle
     {
         protected string name;
-        public vehicle(string name)
+        public vehicle(string carname)
         {
-            this.name = name;
+            this.name = carname;
         }
         public void AC()
         {

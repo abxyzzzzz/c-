@@ -1,0 +1,13 @@
+D:\C#\Power & Sqaure Roots\obj\Debug\netcoreapp3.1\Power & Sqaure Roots.csprojAssemblyReference.cache
+D:\C#\Power & Sqaure Roots\obj\Debug\netcoreapp3.1\Power & Sqaure Roots.AssemblyInfoInputs.cache
+D:\C#\Power & Sqaure Roots\obj\Debug\netcoreapp3.1\Power & Sqaure Roots.AssemblyInfo.cs
+D:\C#\Power & Sqaure Roots\obj\Debug\netcoreapp3.1\Power & Sqaure Roots.csproj.CoreCompileInputs.cache
+D:\C#\Power & Sqaure Roots\bin\Debug\netcoreapp3.1\Power & Sqaure Roots.exe
+D:\C#\Power & Sqaure Roots\bin\Debug\netcoreapp3.1\Power & Sqaure Roots.deps.json
+D:\C#\Power & Sqaure Roots\bin\Debug\netcoreapp3.1\Power & Sqaure Roots.runtimeconfig.json
+D:\C#\Power & Sqaure Roots\bin\Debug\netcoreapp3.1\Power & Sqaure Roots.runtimeconfig.dev.json
+D:\C#\Power & Sqaure Roots\bin\Debug\netcoreapp3.1\Power & Sqaure Roots.dll
+D:\C#\Power & Sqaure Roots\bin\Debug\netcoreapp3.1\Power & Sqaure Roots.pdb
+D:\C#\Power & Sqaure Roots\obj\Debug\netcoreapp3.1\Power & Sqaure Roots.dll
+D:\C#\Power & Sqaure Roots\obj\Debug\netcoreapp3.1\Power & Sqaure Roots.pdb
+D:\C#\Power & Sqaure Roots\obj\Debug\netcoreapp3.1\Power & Sqaure Roots.genruntimeconfig.cache

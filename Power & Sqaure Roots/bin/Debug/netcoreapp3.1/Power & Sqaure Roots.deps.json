@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Power & Sqaure Roots/1.0.0": {
+        "runtime": {
+          "Power & Sqaure Roots.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Power & Sqaure Roots/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
