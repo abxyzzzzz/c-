@@ -52,7 +52,7 @@ namespace Polymorphism
         static void Main(string[] args)
         {
 
-            // Create instances
+           
             Animal myDog = new Dog();
             Animal myElephant = new Elephant();
             Animal genericAnimal = new Animal();
