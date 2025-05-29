@@ -18,7 +18,7 @@ A basic console application that asks the user for a number and tells whether it
 </details>
   
 <details>
-  <summary><h4>🧮School marks system</h4></summary>   
+  <summary><h4>🎓School marks system</h4></summary>   
   
   A simple console-based application in C# that calculates the percentage and division of a Class 10 CBSE [student based](https://github.com/abxyzzzzz/c-/blob/main/school%20marks%20system) on marks entered for five subjects.
 
@@ -91,6 +91,13 @@ Simple Interest (SI) = (P × R × T) / 100
   <summary><h4>🔤ASCII Code Converter</h4></summary>
   
   A simple C# console application that converts between [ASCII symbols and decimal codes](https://github.com/abxyzzzzz/c-/tree/main/ASCII%20Code), and vice versa.
+  
+</details>
+
+<details>
+  <summary><h4>:🧮 Power & Square Root Calculator</h4></summary>
+
+  This is a simple C# console application that allows users to calculate [exponents (powers) and square roots of numbers](https://github.com/abxyzzzzz/c-/tree/main/Power%20%26%20Sqaure%20Roots).
   
 </details>
 </details>
@@ -203,6 +210,19 @@ Simple Interest (SI) = (P × R × T) / 100
   - Interactive and clear console instructions make it easy to use
 
 
+</details>
+
+<details>
+  <summary><h4>🚀Features of  Power & Square Root Calculator</h4></summary>
+
+  - Interactive console interface.
+  - Calculate the power of a base number.
+  - Compute the square root of a number.
+  - Input validation for exponent/square root mode selection.
+  - Uses built-in Math.Pow() and Math.Sqrt() functions.
+   
+
+  
 </details>
 
 
