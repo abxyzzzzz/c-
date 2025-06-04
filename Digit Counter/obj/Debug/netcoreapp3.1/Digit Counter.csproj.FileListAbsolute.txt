@@ -1,0 +1,4 @@
+D:\C#\Digit Counter\obj\Debug\netcoreapp3.1\Digit Counter.csprojAssemblyReference.cache
+D:\C#\Digit Counter\obj\Debug\netcoreapp3.1\Digit Counter.AssemblyInfoInputs.cache
+D:\C#\Digit Counter\obj\Debug\netcoreapp3.1\Digit Counter.AssemblyInfo.cs
+D:\C#\Digit Counter\obj\Debug\netcoreapp3.1\Digit Counter.csproj.CoreCompileInputs.cache

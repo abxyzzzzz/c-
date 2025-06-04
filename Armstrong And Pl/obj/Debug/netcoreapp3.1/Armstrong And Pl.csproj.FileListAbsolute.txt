@@ -1,0 +1,13 @@
+D:\C#\Armstrong And Pl\bin\Debug\netcoreapp3.1\Armstrong And Pl.exe
+D:\C#\Armstrong And Pl\bin\Debug\netcoreapp3.1\Armstrong And Pl.deps.json
+D:\C#\Armstrong And Pl\bin\Debug\netcoreapp3.1\Armstrong And Pl.runtimeconfig.json
+D:\C#\Armstrong And Pl\bin\Debug\netcoreapp3.1\Armstrong And Pl.runtimeconfig.dev.json
+D:\C#\Armstrong And Pl\bin\Debug\netcoreapp3.1\Armstrong And Pl.dll
+D:\C#\Armstrong And Pl\bin\Debug\netcoreapp3.1\Armstrong And Pl.pdb
+D:\C#\Armstrong And Pl\obj\Debug\netcoreapp3.1\Armstrong And Pl.csprojAssemblyReference.cache
+D:\C#\Armstrong And Pl\obj\Debug\netcoreapp3.1\Armstrong And Pl.AssemblyInfoInputs.cache
+D:\C#\Armstrong And Pl\obj\Debug\netcoreapp3.1\Armstrong And Pl.AssemblyInfo.cs
+D:\C#\Armstrong And Pl\obj\Debug\netcoreapp3.1\Armstrong And Pl.csproj.CoreCompileInputs.cache
+D:\C#\Armstrong And Pl\obj\Debug\netcoreapp3.1\Armstrong And Pl.dll
+D:\C#\Armstrong And Pl\obj\Debug\netcoreapp3.1\Armstrong And Pl.pdb
+D:\C#\Armstrong And Pl\obj\Debug\netcoreapp3.1\Armstrong And Pl.genruntimeconfig.cache

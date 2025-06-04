@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Armstrong And Pl/1.0.0": {
+        "runtime": {
+          "Armstrong And Pl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Armstrong And Pl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

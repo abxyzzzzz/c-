@@ -1,0 +1,13 @@
+D:\C#\Perfedt Sqaure\obj\Debug\netcoreapp3.1\Perfedt Sqaure.csprojAssemblyReference.cache
+D:\C#\Perfedt Sqaure\obj\Debug\netcoreapp3.1\Perfedt Sqaure.AssemblyInfoInputs.cache
+D:\C#\Perfedt Sqaure\obj\Debug\netcoreapp3.1\Perfedt Sqaure.AssemblyInfo.cs
+D:\C#\Perfedt Sqaure\obj\Debug\netcoreapp3.1\Perfedt Sqaure.csproj.CoreCompileInputs.cache
+D:\C#\Perfedt Sqaure\bin\Debug\netcoreapp3.1\Perfedt Sqaure.exe
+D:\C#\Perfedt Sqaure\bin\Debug\netcoreapp3.1\Perfedt Sqaure.deps.json
+D:\C#\Perfedt Sqaure\bin\Debug\netcoreapp3.1\Perfedt Sqaure.runtimeconfig.json
+D:\C#\Perfedt Sqaure\bin\Debug\netcoreapp3.1\Perfedt Sqaure.runtimeconfig.dev.json
+D:\C#\Perfedt Sqaure\bin\Debug\netcoreapp3.1\Perfedt Sqaure.dll
+D:\C#\Perfedt Sqaure\bin\Debug\netcoreapp3.1\Perfedt Sqaure.pdb
+D:\C#\Perfedt Sqaure\obj\Debug\netcoreapp3.1\Perfedt Sqaure.dll
+D:\C#\Perfedt Sqaure\obj\Debug\netcoreapp3.1\Perfedt Sqaure.pdb
+D:\C#\Perfedt Sqaure\obj\Debug\netcoreapp3.1\Perfedt Sqaure.genruntimeconfig.cache
