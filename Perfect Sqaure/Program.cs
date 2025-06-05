@@ -7,7 +7,7 @@ namespace Perfedt_Sqaure
         static void Main(string[] args)
         {
             Console.Clear();
-            Console.WriteLine("Hello Im sqaure calculator Enter your number and i will say weather a perfect sqaure or not");
+            Console.WriteLine("Hello Im sqaure calculator Enter your number and i will say weather a perfect sqaure or not: ");
             string r = Console.ReadLine();
             int read = Convert.ToInt32(r);
 
@@ -19,7 +19,7 @@ namespace Perfedt_Sqaure
             }
             else
             {
-                Console.WriteLine("not perfec: ");
+                Console.WriteLine("not perfect: ");
             }
         }
 

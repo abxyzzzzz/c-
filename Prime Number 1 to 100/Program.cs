@@ -10,11 +10,11 @@ namespace Prime_Number_1_to_100
             for (int i = 1; i <= g; i++)
             {
 
-                if (i % 2 == 1)
+                if (i / 1 != 1 )
                 {
-                    Console.WriteLine("its a prime number :",i );
+                    Console.WriteLine("its a prime number :"+ i);
                 }
-
+               
                 else
                 {
                     Console.WriteLine("not prime" + i);

@@ -1,0 +1,13 @@
+D:\C#\File Handleing\obj\Debug\netcoreapp3.1\File Handleing.csprojAssemblyReference.cache
+D:\C#\File Handleing\obj\Debug\netcoreapp3.1\File Handleing.AssemblyInfoInputs.cache
+D:\C#\File Handleing\obj\Debug\netcoreapp3.1\File Handleing.AssemblyInfo.cs
+D:\C#\File Handleing\obj\Debug\netcoreapp3.1\File Handleing.csproj.CoreCompileInputs.cache
+D:\C#\File Handleing\bin\Debug\netcoreapp3.1\File Handleing.exe
+D:\C#\File Handleing\bin\Debug\netcoreapp3.1\File Handleing.deps.json
+D:\C#\File Handleing\bin\Debug\netcoreapp3.1\File Handleing.runtimeconfig.json
+D:\C#\File Handleing\bin\Debug\netcoreapp3.1\File Handleing.runtimeconfig.dev.json
+D:\C#\File Handleing\bin\Debug\netcoreapp3.1\File Handleing.dll
+D:\C#\File Handleing\bin\Debug\netcoreapp3.1\File Handleing.pdb
+D:\C#\File Handleing\obj\Debug\netcoreapp3.1\File Handleing.dll
+D:\C#\File Handleing\obj\Debug\netcoreapp3.1\File Handleing.pdb
+D:\C#\File Handleing\obj\Debug\netcoreapp3.1\File Handleing.genruntimeconfig.cache
