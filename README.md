@@ -100,6 +100,57 @@ Simple Interest (SI) = (P × R × T) / 100
   This is a simple C# console application that allows users to calculate [exponents (powers) and square roots of numbers](https://github.com/abxyzzzzz/c-/tree/main/Power%20%26%20Sqaure%20Roots).
   
 </details>
+
+<details>
+  <summary><h4>🔁Armstrong and palindrome</h4></summary>
+
+  An Armstrong number (also known as a narcissistic number) is a number that is the sum of its own digits each [raised to the power](https://github.com/abxyzzzzz/c-/tree/main/Armstrong%20And%20Pl) of the number of digits.
+
+Example:
+153 → 1³ + 5³ + 3³ = 1 + 125 + 27 = 153
+
+A Palindrome number is a number that remains the same when its digits are reversed.
+
+Example:
+121 → reversed → 121 ✔️
+</details>
+
+<details>
+  <summary><h4>🖥️Digit Counter</h4></summary>
+
+  Digit Counter is a simple C# console application that takes a numeric input from the user and counts the total number of digits in it. The program handles both positive and negative integers by ignoring the minus sign during the count.
+
+It uses basic input/output functionality and string [manipulation to determine](https://github.com/abxyzzzzz/c-/blob/main/Digit%20Counter) the digit count, making it an ideal learning tool for beginners exploring C# fundamentals
+</details>
+
+<details>
+  <summary><h4>🗂️File Hadeling</h4></summary>
+
+  This File Handling Management System is a C# console application that provides basic file and folder operations. It is designed to help users interact with the file system directly from the console. [Users can store content](https://github.com/abxyzzzzz/c-/tree/main/File%20Handleing) in files, view the current working directory, create folders and files, and retrieve file information.
+
+
+</details>
+
+<details>
+  <summary><h4>📏Perfect Sqaure</h4></summary>
+This Perfect Square Checker is a C# console application that determines whether a given number is a perfect square or not. A perfect square is a number that can be expressed as the square of an integer (e.g., 4, 9, 16, 25, etc.).
+
+The program uses Math.Sqrt() to calculate the [square root](https://github.com/abxyzzzzz/c-/tree/main/Perfect%20Sqaure) and checks whether squaring the result returns the original number. It also provides immediate feedback through the console.
+  
+</details>
+
+
+<details>
+  <summary><h4>💪Power and Square roots</h4></summary>
+
+  Power & Square Root Calculator is a C# console application that performs two basic mathematical operations:
+
+Exponents (Power) – Raise a base to a given exponent using Math.Pow()
+
+Square Roots – Find the square root of a number using Math.Sqrt()
+
+[The program](https://github.com/abxyzzzzz/c-/tree/main/Power%20%26%20Sqaure%20Roots) is interactive and runs inside a loop, letting users choose the operation type and input values through the console
+</details>
 </details>
 
 ---   
@@ -223,6 +274,54 @@ Simple Interest (SI) = (P × R × T) / 100
    
 
   
+</details>
+
+<details>
+  <summary><h4>🚀Features of Armstrong and Palidrome</h4></summary>
+
+  - Validates if a number is an Armstrong number (like 153, 370, etc.)
+  - Verifies if a number reads the same forwards and backwards (like 121, 1331, etc.)
+  - Separated logic into IsArmstrong() and IsPalindrome() methods
+  - Uses mathematical logic with Math.Pow() and digit manipulation
+</details>
+
+<details>
+  <summary><h4>🚀Features of Digit Countr</h4></summary>
+
+  - Counts the number of digits in an integer
+  - Handles negative numbers by excluding the minus sign
+  - Beginner-friendly and clean C# code
+</details>
+
+<details>
+  <summary><h4>🚀Features of File Handling</h4></summary>
+
+  - Allows users to input text and save it into a .txt file with a custom filename.
+  - Shows the current working directory where the application is running
+  - Lets users create a new folder and a file inside it, with custom content.
+  - Displays file name, size in bytes, and its full directory path.
+
+
+</details>
+
+<details>
+  <summary><h4>🚀Features of Perfect Square</h4></summary>
+
+- Square Root Calculation using Math.Sqrt()
+- Perfect Square Detection logic using integer squaring
+- Beginner-Friendly Code
+- Detects and flags numbers that are not perfect squares
+- Console-based interaction
+  
+</details>
+
+<details>
+  <summary><h4>🚀Features of Power & Sqaure Roots</h4></summary>
+
+  - Calculate Powers (e.g., 2⁵ = 32)
+  - Calculate Square Roots (e.g., √25 = 5
+  - Loop with Option Selection using while (true)
+  - Input-based Operation Mode (Press E for exponent, S for square root)
 </details>
 
 
