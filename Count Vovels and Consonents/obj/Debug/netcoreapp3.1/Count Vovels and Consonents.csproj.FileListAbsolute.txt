@@ -1,0 +1,13 @@
+D:\C#\Count Vovels and Consonents\obj\Debug\netcoreapp3.1\Count Vovels and Consonents.csprojAssemblyReference.cache
+D:\C#\Count Vovels and Consonents\obj\Debug\netcoreapp3.1\Count Vovels and Consonents.AssemblyInfoInputs.cache
+D:\C#\Count Vovels and Consonents\obj\Debug\netcoreapp3.1\Count Vovels and Consonents.AssemblyInfo.cs
+D:\C#\Count Vovels and Consonents\obj\Debug\netcoreapp3.1\Count Vovels and Consonents.csproj.CoreCompileInputs.cache
+D:\C#\Count Vovels and Consonents\bin\Debug\netcoreapp3.1\Count Vovels and Consonents.exe
+D:\C#\Count Vovels and Consonents\bin\Debug\netcoreapp3.1\Count Vovels and Consonents.deps.json
+D:\C#\Count Vovels and Consonents\bin\Debug\netcoreapp3.1\Count Vovels and Consonents.runtimeconfig.json
+D:\C#\Count Vovels and Consonents\bin\Debug\netcoreapp3.1\Count Vovels and Consonents.runtimeconfig.dev.json
+D:\C#\Count Vovels and Consonents\bin\Debug\netcoreapp3.1\Count Vovels and Consonents.dll
+D:\C#\Count Vovels and Consonents\bin\Debug\netcoreapp3.1\Count Vovels and Consonents.pdb
+D:\C#\Count Vovels and Consonents\obj\Debug\netcoreapp3.1\Count Vovels and Consonents.dll
+D:\C#\Count Vovels and Consonents\obj\Debug\netcoreapp3.1\Count Vovels and Consonents.pdb
+D:\C#\Count Vovels and Consonents\obj\Debug\netcoreapp3.1\Count Vovels and Consonents.genruntimeconfig.cache
