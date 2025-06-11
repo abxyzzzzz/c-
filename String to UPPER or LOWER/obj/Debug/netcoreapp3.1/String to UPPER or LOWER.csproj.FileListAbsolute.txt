@@ -1,0 +1,13 @@
+D:\C#\String to UPPER or LOWER\obj\Debug\netcoreapp3.1\String to UPPER or LOWER.csprojAssemblyReference.cache
+D:\C#\String to UPPER or LOWER\obj\Debug\netcoreapp3.1\String to UPPER or LOWER.AssemblyInfoInputs.cache
+D:\C#\String to UPPER or LOWER\obj\Debug\netcoreapp3.1\String to UPPER or LOWER.AssemblyInfo.cs
+D:\C#\String to UPPER or LOWER\obj\Debug\netcoreapp3.1\String to UPPER or LOWER.csproj.CoreCompileInputs.cache
+D:\C#\String to UPPER or LOWER\bin\Debug\netcoreapp3.1\String to UPPER or LOWER.exe
+D:\C#\String to UPPER or LOWER\bin\Debug\netcoreapp3.1\String to UPPER or LOWER.deps.json
+D:\C#\String to UPPER or LOWER\bin\Debug\netcoreapp3.1\String to UPPER or LOWER.runtimeconfig.json
+D:\C#\String to UPPER or LOWER\bin\Debug\netcoreapp3.1\String to UPPER or LOWER.runtimeconfig.dev.json
+D:\C#\String to UPPER or LOWER\bin\Debug\netcoreapp3.1\String to UPPER or LOWER.dll
+D:\C#\String to UPPER or LOWER\bin\Debug\netcoreapp3.1\String to UPPER or LOWER.pdb
+D:\C#\String to UPPER or LOWER\obj\Debug\netcoreapp3.1\String to UPPER or LOWER.dll
+D:\C#\String to UPPER or LOWER\obj\Debug\netcoreapp3.1\String to UPPER or LOWER.pdb
+D:\C#\String to UPPER or LOWER\obj\Debug\netcoreapp3.1\String to UPPER or LOWER.genruntimeconfig.cache
