@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Remove Spaces from String/1.0.0": {
+        "runtime": {
+          "Remove Spaces from String.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Remove Spaces from String/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

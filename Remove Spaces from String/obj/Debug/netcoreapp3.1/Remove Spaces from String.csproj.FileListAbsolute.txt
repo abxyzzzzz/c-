@@ -1,0 +1,13 @@
+D:\C#\Remove Spaces from String\bin\Debug\netcoreapp3.1\Remove Spaces from String.exe
+D:\C#\Remove Spaces from String\bin\Debug\netcoreapp3.1\Remove Spaces from String.deps.json
+D:\C#\Remove Spaces from String\bin\Debug\netcoreapp3.1\Remove Spaces from String.runtimeconfig.json
+D:\C#\Remove Spaces from String\bin\Debug\netcoreapp3.1\Remove Spaces from String.runtimeconfig.dev.json
+D:\C#\Remove Spaces from String\bin\Debug\netcoreapp3.1\Remove Spaces from String.dll
+D:\C#\Remove Spaces from String\bin\Debug\netcoreapp3.1\Remove Spaces from String.pdb
+D:\C#\Remove Spaces from String\obj\Debug\netcoreapp3.1\Remove Spaces from String.csprojAssemblyReference.cache
+D:\C#\Remove Spaces from String\obj\Debug\netcoreapp3.1\Remove Spaces from String.AssemblyInfoInputs.cache
+D:\C#\Remove Spaces from String\obj\Debug\netcoreapp3.1\Remove Spaces from String.AssemblyInfo.cs
+D:\C#\Remove Spaces from String\obj\Debug\netcoreapp3.1\Remove Spaces from String.csproj.CoreCompileInputs.cache
+D:\C#\Remove Spaces from String\obj\Debug\netcoreapp3.1\Remove Spaces from String.dll
+D:\C#\Remove Spaces from String\obj\Debug\netcoreapp3.1\Remove Spaces from String.pdb
+D:\C#\Remove Spaces from String\obj\Debug\netcoreapp3.1\Remove Spaces from String.genruntimeconfig.cache
