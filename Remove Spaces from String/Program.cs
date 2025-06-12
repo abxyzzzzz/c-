@@ -12,7 +12,8 @@ namespace Remove_Spaces_from_String
             Console.WriteLine("Please enter your text");
 
             string text = Console.ReadLine();
-            Console.WriteLine($"OUTPUT: {text.Trim()}");
+            string rem = text.Replace(" ", "");
+            Console.WriteLine(rem);
         }
     }
 }
