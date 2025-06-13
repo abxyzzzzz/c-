@@ -1,0 +1,13 @@
+D:\C#\Categorizes Person height as tall or short\obj\Debug\netcoreapp3.1\Categorizes Person height as tall or short.csprojAssemblyReference.cache
+D:\C#\Categorizes Person height as tall or short\obj\Debug\netcoreapp3.1\Categorizes Person height as tall or short.AssemblyInfoInputs.cache
+D:\C#\Categorizes Person height as tall or short\obj\Debug\netcoreapp3.1\Categorizes Person height as tall or short.AssemblyInfo.cs
+D:\C#\Categorizes Person height as tall or short\obj\Debug\netcoreapp3.1\Categorizes Person height as tall or short.csproj.CoreCompileInputs.cache
+D:\C#\Categorizes Person height as tall or short\bin\Debug\netcoreapp3.1\Categorizes Person height as tall or short.exe
+D:\C#\Categorizes Person height as tall or short\bin\Debug\netcoreapp3.1\Categorizes Person height as tall or short.deps.json
+D:\C#\Categorizes Person height as tall or short\bin\Debug\netcoreapp3.1\Categorizes Person height as tall or short.runtimeconfig.json
+D:\C#\Categorizes Person height as tall or short\bin\Debug\netcoreapp3.1\Categorizes Person height as tall or short.runtimeconfig.dev.json
+D:\C#\Categorizes Person height as tall or short\bin\Debug\netcoreapp3.1\Categorizes Person height as tall or short.dll
+D:\C#\Categorizes Person height as tall or short\bin\Debug\netcoreapp3.1\Categorizes Person height as tall or short.pdb
+D:\C#\Categorizes Person height as tall or short\obj\Debug\netcoreapp3.1\Categorizes Person height as tall or short.dll
+D:\C#\Categorizes Person height as tall or short\obj\Debug\netcoreapp3.1\Categorizes Person height as tall or short.pdb
+D:\C#\Categorizes Person height as tall or short\obj\Debug\netcoreapp3.1\Categorizes Person height as tall or short.genruntimeconfig.cache
