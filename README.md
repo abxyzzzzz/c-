@@ -151,6 +151,45 @@ Square Roots – Find the square root of a number using Math.Sqrt()
 
 [The program](https://github.com/abxyzzzzz/c-/tree/main/Power%20%26%20Sqaure%20Roots) is interactive and runs inside a loop, letting users choose the operation type and input values through the console
 </details>
+
+<details>
+  <summary><h4>🧍‍♂️Categorizes Person Height As Tall or Short</h4></summary>
+
+  This C# console application helps users categorize their [height into one of four](https://github.com/abxyzzzzz/c-/tree/main/Categorizes%20Person%20height%20as%20tall%20or%20short) categories: Short, Average, Tall, or Insanely Tall based on the height entered in centimeters.
+</details>
+
+<details>
+  <summary><h4>🔤 Vowel and Consonant Counter</h4></summary>
+
+  This C# console application takes a line of text from the user and counts the [number of vowels](https://github.com/abxyzzzzz/c-/tree/main/Count%20Vovels%20and%20Consonents) and consonants in it. It’s a simple tool for practicing character analysis and loop handling in C#.
+  
+</details>
+
+<details>
+  <summary><h4></h4>🔡 Remove Spaces from String</summary>
+
+  This C# console application removes all spaces from the user’s input string and prints the [cleaned-up result](https://github.com/abxyzzzzz/c-/tree/main/Remove%20Spaces%20from%20String). It's a simple and effective utility for learning string manipulation in C#.
+  
+</details>
+
+<details>
+  <summary><h4>🔁Reverse String</h4></summary>
+
+  This C# console application takes a string input from the user and prints the [reversed version](https://github.com/abxyzzzzz/c-/tree/main/Reverse%20String) of it using a simple loop. A great beginner-friendly project to understand string manipulation and loop logic.
+</details>
+
+<details>
+  <summary><h4>↕️ String Case Converter – UpperCase / LowerCase</h4></summary>
+
+  This C# console application allows users to convert any input string to [uppercase or lowercase](https://github.com/abxyzzzzz/c-/tree/main/String%20to%20UPPER%20or%20LOWER) based on user selection. It's a simple and interactive program ideal for beginners learning about string methods and conditional statements.
+</details>
+
+
+
+
+
+
+
 </details>
 
 ---   
@@ -322,6 +361,59 @@ Square Roots – Find the square root of a number using Math.Sqrt()
   - Calculate Square Roots (e.g., √25 = 5
   - Loop with Option Selection using while (true)
   - Input-based Operation Mode (Press E for exponent, S for square root)
+</details>
+
+<details>
+  <summary><h4>🚀Features of Person height as tall or short</h4></summary>
+
+  - Accepts height input in cm from the user.
+  - Categorizes height into
+      - Short (≤ 150 cm)
+      - Average (151 cm to 164 cm)
+      - Tall (165 cm to 174 cm)
+      - Insanely Tall (175 cm to 210 cm)
+  - Beginner-friendly code using simple if-else logic.
+
+  
+</details>
+
+<details>
+  <summary><h4>🚀Features of Vowel and Consonant Counter</h4></summary>
+
+  - Accepts user input via the console.
+  - Counts the number of vowels (a, e, i, o, u) in the input
+  - Counts the number of consonants (all other letters).
+  - Ignores whitespace, punctuation, and digits (can be improved further).
+  - Beginner-friendly logic using a basic for loop and if-else conditions.
+  
+</details>
+
+<details>
+  <summary><h4></h4>🚀Features of Remove Spaces from String</summary>
+
+  - Accepts user input from the console.
+  - Removes all whitespace characters (not just leading).
+  - Outputs the modified string without any spaces.
+  - Uses the string.Replace() method for efficient space removal.
+</details>
+
+<details>
+  <summary><h4>🚀Features of Reverse String</h4></summary>
+  
+  - Accepts any string input from the user.
+  - Reverses the string using a for loop.
+  - Outputs the reversed string to the console.
+  - Minimal, readable code ideal for beginners.
+  
+</details>
+
+<details>
+  <summary><h4>🚀Features of String Case Converter – UpperCase / LowerCase</h4></summary>
+
+  - User chooses between converting text to uppercase or lowercase.
+  - Converts any string using built-in .ToUpper() or .ToLower() methods.
+  - Error message for invalid input.
+  - Clean console interface with user prompts.
 </details>
 
 
