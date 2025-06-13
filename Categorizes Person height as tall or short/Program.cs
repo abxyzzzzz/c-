@@ -17,17 +17,21 @@ namespace Categorizes_Person_height_as_tall_or_short
                 Console.WriteLine("Your Short");
 
             }
-            else if (value >= 151 || value < 165)
+            else if (value >= 151 && value <= 165)
             {
                 Console.WriteLine("Your Average");
             }
-            else if (value >= 165 || value < 175)
+            else if (value >= 166 && value <= 175)
             {
                 Console.WriteLine("Your tall");
             }
-            else if (value >= 175 || value < 210)
+            else if (value >= 176 && value <= 210)
             {
                 Console.WriteLine("YOU HAVE INSANE GENETICS!!!!!");
+            }
+            else
+            {
+                Console.WriteLine("ERROR:UNEXPECTED HEIGHT");
             }
 
         }
