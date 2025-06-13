@@ -13,7 +13,7 @@ namespace Remove_Spaces_from_String
 
             string text = Console.ReadLine();
             string rem = text.Replace(" ", "");
-            Console.WriteLine(rem);
+            Console.WriteLine($"OUPUT: {rem}");
         }
     }
 }

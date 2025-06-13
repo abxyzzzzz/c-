@@ -1,0 +1,13 @@
+D:\C#\Replace Characters In A String\bin\Debug\netcoreapp3.1\Replace Characters In A String.exe
+D:\C#\Replace Characters In A String\bin\Debug\netcoreapp3.1\Replace Characters In A String.deps.json
+D:\C#\Replace Characters In A String\bin\Debug\netcoreapp3.1\Replace Characters In A String.runtimeconfig.json
+D:\C#\Replace Characters In A String\bin\Debug\netcoreapp3.1\Replace Characters In A String.runtimeconfig.dev.json
+D:\C#\Replace Characters In A String\bin\Debug\netcoreapp3.1\Replace Characters In A String.dll
+D:\C#\Replace Characters In A String\bin\Debug\netcoreapp3.1\Replace Characters In A String.pdb
+D:\C#\Replace Characters In A String\obj\Debug\netcoreapp3.1\Replace Characters In A String.csprojAssemblyReference.cache
+D:\C#\Replace Characters In A String\obj\Debug\netcoreapp3.1\Replace Characters In A String.AssemblyInfoInputs.cache
+D:\C#\Replace Characters In A String\obj\Debug\netcoreapp3.1\Replace Characters In A String.AssemblyInfo.cs
+D:\C#\Replace Characters In A String\obj\Debug\netcoreapp3.1\Replace Characters In A String.csproj.CoreCompileInputs.cache
+D:\C#\Replace Characters In A String\obj\Debug\netcoreapp3.1\Replace Characters In A String.dll
+D:\C#\Replace Characters In A String\obj\Debug\netcoreapp3.1\Replace Characters In A String.pdb
+D:\C#\Replace Characters In A String\obj\Debug\netcoreapp3.1\Replace Characters In A String.genruntimeconfig.cache
