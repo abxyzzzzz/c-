@@ -1,0 +1,13 @@
+D:\C#\Count characters, words\obj\Debug\netcoreapp3.1\Count characters, words.csprojAssemblyReference.cache
+D:\C#\Count characters, words\obj\Debug\netcoreapp3.1\Count characters, words.AssemblyInfoInputs.cache
+D:\C#\Count characters, words\obj\Debug\netcoreapp3.1\Count characters, words.AssemblyInfo.cs
+D:\C#\Count characters, words\obj\Debug\netcoreapp3.1\Count characters, words.csproj.CoreCompileInputs.cache
+D:\C#\Count characters, words\bin\Debug\netcoreapp3.1\Count characters, words.exe
+D:\C#\Count characters, words\bin\Debug\netcoreapp3.1\Count characters, words.deps.json
+D:\C#\Count characters, words\bin\Debug\netcoreapp3.1\Count characters, words.runtimeconfig.json
+D:\C#\Count characters, words\bin\Debug\netcoreapp3.1\Count characters, words.runtimeconfig.dev.json
+D:\C#\Count characters, words\bin\Debug\netcoreapp3.1\Count characters, words.dll
+D:\C#\Count characters, words\bin\Debug\netcoreapp3.1\Count characters, words.pdb
+D:\C#\Count characters, words\obj\Debug\netcoreapp3.1\Count characters, words.dll
+D:\C#\Count characters, words\obj\Debug\netcoreapp3.1\Count characters, words.pdb
+D:\C#\Count characters, words\obj\Debug\netcoreapp3.1\Count characters, words.genruntimeconfig.cache
