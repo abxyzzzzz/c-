@@ -6,7 +6,7 @@ namespace Capitilize_Frist_Letter
     {
         static void Main(string[] args)
         {
-             Console.Console.Clear();
+            
 
             Console.Clear();
             Console.WriteLine("Enter your text and i will make the frist word capital");
