@@ -184,6 +184,32 @@ Square Roots – Find the square root of a number using Math.Sqrt()
   This C# console application allows users to convert any input string to [uppercase or lowercase](https://github.com/abxyzzzzz/c-/tree/main/String%20to%20UPPER%20or%20LOWER) based on user selection. It's a simple and interactive program ideal for beginners learning about string methods and conditional statements.
 </details>
 
+<details>
+  <summary><h4>🧾Capitalize First Letter</h4></summary>
+
+  This simple 🧾 C# console application reads a line of text input by the user and [capitalizes](https://github.com/abxyzzzzz/c-/blob/main/Capitilize%20Frist%20Letter) the **first letter** of the input, while keeping the rest of the string unchanged.
+  
+</details>
+
+<details>
+  <summary><h4>✍️Count Characters and words</h4></summary>
+
+  This C# console application takes a sentence as [input from the user](https://github.com/abxyzzzzz/c-/blob/main/Count%20characters%2C%20words) and provides two key insights:
+
+Total characters (excluding spaces)
+
+Total words in the input
+
+It is useful for basic text analysis, helping users quickly understand the length and word count of any given sentence.
+</details>
+
+<details>
+  <summary><h4>🔁Replace Characters In A String</h4></summary>
+
+  This is a C# console-based String Replacer program. It allows the user to input a sentence and then replace all occurrences of a specified character or substring with a new one.
+It uses the built-in .Replace() [method to perform](https://github.com/abxyzzzzz/c-/blob/main/Replace%20Characters%20In%20A%20String/) the operation and prints the modified result to the console.
+</details>
+
 
 
 
@@ -415,6 +441,40 @@ Square Roots – Find the square root of a number using Math.Sqrt()
   - Error message for invalid input.
   - Clean console interface with user prompts.
 </details>
+
+<details>
+  <summary><h4>🚀Features of Capitalize First Letter</h4></summary>
+
+  -  Takes user input via console
+  -  Capitalizes the **first character**
+  -  Displays the modified string
+
+    
+</details>
+
+<details>
+  <summary><h4>🚀Features of Count Chracters and words</h4></summary>
+
+  - Accepts a full sentence from user input via console
+  - Counts and displays the total number of characters (excluding spaces)
+  - Counts and displays the total number of words
+  - Console-based interaction — simple and beginner-friendly
+
+</details>
+
+<details>
+  <summary><h4>>🚀Features of Replace Characters In A String</h4></summary>
+
+  - Takes a full sentence input from the user
+  - Allows the user to select a character or substring to replace
+  - Replaces all matching instances with a new character or string
+  - Displays the final modified string after replacement
+  - Console-based and beginner-friendly interface
+  - Uses string.Replace() for efficient string manipulation
+
+
+</details>
+
 
 
 
